@@ -90,7 +90,7 @@ h1  {width: 800px; float: left; margin-top: 25px; display:}
 
 #craft img {width: 100%; opacity: .3;}
 
-#scroll .boxed {background-color: blue; width: 302.5px; margin-left: 200px;  border: 1px solid black ;height: 30px;font-family: 'EB Garamond', serif;font-size: 15px;font-weight: bolder;padding-bottom: -40px;}
+#scroll .boxed {background-color: clear; width: 302.5px; margin-left: 200px;  border: 1px solid black ;height: 30px;font-family: 'EB Garamond', serif;font-size: 15px;font-weight: bolder;padding-bottom: -40px;}
 #scroll .header-txt {background-color: clear; width: 200;text-align: center;font-family: 'EB Garamond', serif;position; absolute; padding-top: 60px;}
 #sub .boxed {background-color: #rgba(0, 0, 0, 0.5); width: 100px; margin-left: 504.5px; height: 31.8px; border: .2px solid black ; font-size: 15px;font-family: 'EB Garamond'; font-weight: bold;}
 
