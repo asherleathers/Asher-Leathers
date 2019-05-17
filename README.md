@@ -1,2 +1,2 @@
-#  https://asherleathers.github.io/Asher-Leathers/
+#  http://asherleathers.github.io
 Asher Leathers Website
