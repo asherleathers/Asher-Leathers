@@ -1,0 +1,106 @@
+* { margin:0px; padding:0px; border:0;  }
+
+
+body      {background-color: white;"font-family: 'EB Garamond', serif;
+            }
+
+#wrapper  { width:804px;  margin: 20px auto; padding:0px;
+                            background-color: white;}
+
+#name     {width: 800px; float: left; margin:15px 0 -80px}
+#name h1  {font-family: 'EB Garamond', serif; font-weight: normal;}
+
+h1  {width: 800px; float: left; margin-top: 25px; display:}
+
+#about h3 { width:30%; text-align: center; border-bottom: 1px solid #000; line-height:0.1em; margin-right: 50px;}
+#about h3 span { background:#fff; font-family: 'EB Garamond', serif; }
+#about {margin-top: 150px; margin-left: 350px;}
+
+#topnav     { width:500px;  float:right; margin-top: 50px;}
+#topnav ul { text-align: right; }
+#topnav ul li {display: inline; margin-right: 0px; padding: 10px;}
+#topnav a     {font-size: 18px;
+              font-family: 'EB Garamond', serif; font-weight:bold;
+              text-decoration:none; color: black;}
+
+#topnav a:hover {color: #777}
+
+
+#banner   { clear: both;  margin: 30px 0;
+}
+#banner h2 { width: 800px; position: absolute; bottom: 400px;}
+.boxed { border: 2px solid black;}
+ {width:20px;}
+
+
+#about h3 {margin-top: -65px;}
+
+#handcraft h4 {font-family: 15px; padding: 5px; font-family: 'EB Garamond', serif;}
+#handcraft  {text-align: center; padding: 20px;}
+#handcraft p {text-align: center;font-family: 'EB Garamond', serif;}
+
+
+
+#title h4 {width: 200px;float: left; display: inline; margin-left: 75px;}
+#title1 h4 {width: 250px; float: right;display: inline; margin-right: 50px; }
+
+#bottom {width: 800px;margin-top: 50px;clear: both;}
+
+.alert {width:800px;
+  background-color: #999; text-align: center;
+  padding: 10px;
+}
+
+.header-txt {
+  position:absolute;
+  top:0;bottom:0;
+  margin:auto 0;
+  margin-left: 25px;
+  width:100%;
+  height:90px;
+  font-size:30px;
+  text-align: left;
+  font-family: 'EB Garamond', serif;
+  font-weight: bold;
+}
+.header-wrapper {
+  position:relative;
+}
+.header-img {opacity: .7;
+    width: 100%;
+}
+
+.boxed {
+  position: absolute;
+  top:0; bottom:0;
+  margin:auto 0;
+  width:120px;
+  height:30px;
+  font-size:20
+  border: 2px solid black ;
+  font-family: 'EB Garamond', serif;
+  text-align: center;
+  margin-left: 70px;
+
+}
+
+.boxed a {text-decoration:none; color: black;font-family: 'EB Garamond', serif;}
+.boxed a:hover {color: #777}
+
+
+#craft img {width: 100%; opacity: .3;}
+
+#scroll .boxed {background-color: blue; width: 302.5px; margin-left: 200px;  border: 1px solid black ;height: 30px;font-family: 'EB Garamond', serif;font-size: 15px;font-weight: bolder;padding-bottom: -40px;}
+#scroll .header-txt {background-color: clear; width: 200;text-align: center;font-family: 'EB Garamond', serif;position; absolute; padding-top: 60px;}
+#sub .boxed {background-color: #rgba(0, 0, 0, 0.5); width: 100px; margin-left: 504.5px; height: 31.8px; border: .2px solid black ; font-size: 15px;font-family: 'EB Garamond'; font-weight: bold;}
+
+#contact {width: 800px;height: 300px;margin-top: 50px;}
+#contact h1 {width: 800px;text-align: center;font-family: 'EB Garamond', serif;}
+#contact h3 {width: 800px;text-align: center;font-family: 'EB Garamond', serif;}
+#contact h4 {width: 800px;text-align: center;font-family: 'EB Garamond', serif;}
+#contact a {text-decoration:none; font-family: 'EB Garamond', serif;}
+
+
+
+#footer {clear: both;font-family: 'EB Garamond', serif;}
+#footer {width: 800px; margin-top: 100px;margin-left: 0; }
